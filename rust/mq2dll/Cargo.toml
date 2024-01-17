@@ -1,0 +1,3 @@
+[workspace]
+members = ["mq2lib", "mq2autocxx", "mq2lib_runner"]
+resolver = "2"
