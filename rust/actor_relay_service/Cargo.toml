@@ -1,0 +1,5 @@
+[workspace]
+members = [
+	"relay_server",
+]
+resolver = "2"
